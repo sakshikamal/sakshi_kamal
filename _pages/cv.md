@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Computer Science, University of California, Irvine, 2025 (expected)
+* Bachelor of Engineering in Computer Science and Engineering, Rashtreeya Vidyalaya College of Engineering (RVCE), Bengaluru, India, 2022
 
 Work experience
 ======
